@@ -1,0 +1,82 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Film 1",
+      "description": "Finis de germanus fuga, attrahendam lanista!",
+      "imageUrl": "1.jpeg",
+      "datePublished": "1985-03-11",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Film 2",
+      "description": "Finis de germanus fuga, attrahendam lanista!",
+      "imageUrl": "2.jpeg",
+      "datePublished": "1985-03-11",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "Film 3",
+      "description": "Finis de germanus fuga, attrahendam lanista!",
+      "imageUrl": "3.jpeg",
+      "datePublished": "1985-03-11",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "title": "Film 4",
+      "description": "Finis de germanus fuga, attrahendam lanista!",
+      "imageUrl": "4.jpeg",
+      "datePublished": "1985-03-11",
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "title": "Film 5",
+      "description": "Finis de germanus fuga, attrahendam lanista!",
+      "imageUrl": "5.jpeg",
+      "datePublished": "1985-03-11",
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "title": "Film 6",
+      "description": "Film 6 Traştan bir filmdir.",
+      "imageUrl": "2.jpeg",
+      "datePublished": 7,
+      "categoryId": "3"
+    },
+    {
+      "id": 7,
+      "datePublished": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Macera"
+    },
+    {
+      "id": 2,
+      "name": "Romantik"
+    },
+    {
+      "id": 3,
+      "name": "Komedi"
+    },
+    {
+      "id": 4,
+      "name": "Dram"
+    },
+    {
+      "id": 5,
+      "name": "Savaş"
+    },
+    {
+      "id": 6,
+      "name": "Korku"
+    }
+  ]
+}

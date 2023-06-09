@@ -6,6 +6,9 @@
     "movieApp": {
       "projectType": "application",
       "schematics": {},
+      "i18n": {
+        "sourceLocale": "tr"
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -27,7 +30,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "node_modules/bootstrap/dist/js/bootstrap.bundle.js",
+              "node_modules/alertifyjs/build/alertify.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +100,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a00db04a-e898-4596-a23a-e05bf1a96ea9"
   }
 }
